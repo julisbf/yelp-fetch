@@ -1,0 +1,20 @@
+{
+  "name": "yelp-fetch",
+  "version": "1.0.0",
+  "description": "Example to understand Yelp Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juliana BF",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "node-fetch": "^2.1.2",
+    "nodemon": "^1.17.5",
+    "querystringify": "^2.0.0",
+    "yelp-fusion": "^2.0.3"
+  }
+}
