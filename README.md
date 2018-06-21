@@ -10,5 +10,5 @@ On the root create an .env file and add ACCESS_TOKEN = "Your_Yelp_API_Key". This
 Then /
 Run _nodemon index_
 
-Go to [test search](http://localhost:4000/term=sushi&location=new york&limit=5)
+Go to [test search](http://localhost:4000/term=sushi&location=new+york&limit=5)
 _term and location are mandatory_
